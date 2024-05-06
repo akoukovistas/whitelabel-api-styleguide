@@ -111,4 +111,4 @@ As with many things affecting the human psyche, the answer to why we do not want
 
 ***
 
-For any points not explicitly covered in this guide, or our design philosophy, the open API standards can be utilized to make a decision (<https://oai.github.io/Documentation/best-practices.html>).
+For any points not explicitly covered in this guide, or our design philosophy, the open API standards can be utilized to make a decision (https://learn.openapis.org/best-practices.html).
